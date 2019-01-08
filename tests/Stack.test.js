@@ -1,4 +1,4 @@
-const { Stack } = require("../src/Stack");
+const Stack = require("../src/Stack");
 
 describe("Stack", () => 
 {

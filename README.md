@@ -22,13 +22,13 @@ import { Stack } from "simple-stacks";
 const Stack = require("simple-stacks").Stack;
 ```
 
-Once imported, you just have to instanciate a Stack and add data to have an usable queue.
+Once imported, you just have to instanciate a Stack and add data to have an usable stack.
 
 ```javascript
 import { Stack } from "simple-stacks";
 
 const stack = new Stack();
-const myData = {id: "some-id"};
+const myData = { id: "some-id" };
 
 stack.push(myData);
 stack.push("test1");
@@ -70,7 +70,7 @@ Moreover, Pull Requests should always come with related unit tests, and won't be
 `simple-stacks` uses jest for unit testing.  
 If you don't know about jest yet, you can check out their [documentation](https://jestjs.io/en/).
 
-To run the tests, just run : 
+To run the tests, just run :
 
 `yarn test`
 

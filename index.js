@@ -1,5 +1,5 @@
-const Stack = require("./src/Stack");
+const Stack = require("./src/stack");
 
 module.exports = {
-    Stack
+  Stack,
 };

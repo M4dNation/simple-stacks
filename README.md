@@ -1,5 +1,9 @@
 # simple-stacks
 
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![npm version](https://badge.fury.io/js/simple-stacks.svg)](https://badge.fury.io/js/simple-stacks)
+[![Build Status](https://travis-ci.org/M4dNation/simple-stacks.png?branch=master)](https://travis-ci.org/M4dNation/simple-stacks) ![](https://david-dm.org/M4dNation/simple-stacks.svg) [![codecov](https://codecov.io/gh/M4dNation/simple-stacks/branch/develop/graph/badge.svg)](https://codecov.io/gh/M4dNation/simple-stacks)
+
 ## About
 
 `simple-stacks` is a package for creating a stack structure.  

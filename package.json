@@ -1,6 +1,6 @@
 {
   "name": "simple-stacks",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "keywords": [
     "data-structure",
     "stack"
@@ -14,7 +14,7 @@
   "repository": "https://github.com/M4dNation/simple-stacks",
   "license": "MIT",
   "devDependencies": {
-    "jest": "24.0.0",
+    "jest": "24.1.0",
     "xo": "0.24.0"
   },
   "prettier": {
